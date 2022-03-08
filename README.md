@@ -2,7 +2,7 @@
 - 👀 I’m interested in video games, football, and of course can't forget coding.
 - 🌱 I’m currently learning python and hope to learn more along the way.
 - 💞️ I’m looking to collaborate on projects and get more comfortable with working with others
-- 📫 How to reach me, emailing me 'andyrod209@gmail.com'
+- 📫 How to reach me: andyrod209@gmail.com
 
 <!---
 Andyrod209/Andyrod209 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
