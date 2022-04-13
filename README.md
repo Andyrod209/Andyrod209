@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning learning java.
 - 💞️ I’m looking to collaborate on projects or just even to talk.
 - 📫 How to reach me: rodr.andye@gmail.com
-  - Linked In: Andrew Rodriguez, Full Stack Developer
+  - Linked In: https://www.linkedin.com/in/andrew-e-rodriguez/
   - personal email: andyrod209@gmail.com
   - Discord: turtles_141#3868
 
