@@ -1,8 +1,11 @@
 - 👋 Hi, I’m Andrew Rodriguez
-- 👀 I’m interested in video games, football, and of course can't forget coding.
-- 🌱 I’m currently learning python and hope to learn more along the way.
-- 💞️ I’m looking to collaborate on projects and get more comfortable with working with others
-- 📫 How to reach me: andyrod209@gmail.com
+- 👀 I’m interested in coding and creating amazing projects.
+- 🌱 I’m currently learning learning java.
+- 💞️ I’m looking to collaborate on projects or just even to talk.
+- 📫 How to reach me: rodr.andye@gmail.com
+  - Linked In: Andrew Rodriguez, Full Stack Developer
+  - personal email: andyrod209@gmail.com
+  - Discord: turtles_141#3868
 
 <!---
 Andyrod209/Andyrod209 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
