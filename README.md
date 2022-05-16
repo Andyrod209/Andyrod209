@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Andrew Rodriguez
 - 👀 I’m interested in coding and creating amazing projects.
-- 🌱 I’m currently learning learning java.
+- 🌱 I’m currently learning java.
 - 💞️ I’m looking to collaborate on projects or just even to talk.
 - 📫 How to reach me: rodr.andye@gmail.com
   - Linked In: https://www.linkedin.com/in/andrew-e-rodriguez/
